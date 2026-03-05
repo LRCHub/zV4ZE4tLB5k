@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "六兆年と一夜物語",
+  "base_artist": "そらる",
+  "createdAt": "2026-03-05T13:54:02.638686Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/01_六兆年と一夜物語_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語(カバー)",
+      "artist": "KEMU",
+      "has_synced": false,
+      "path": "select/02_六兆年と一夜物語(カバー)_KEMU.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語",
+      "artist": "Kemu",
+      "has_synced": true,
+      "path": "select/03_六兆年と一夜物語_Kemu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語",
+      "artist": "kemu feat.IA feat. IA",
+      "has_synced": true,
+      "path": "select/04_六兆年と一夜物語_kemu_feat.IA_feat._IA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語",
+      "artist": "kemu feat. ピコ",
+      "has_synced": true,
+      "path": "select/05_六兆年と一夜物語_kemu_feat._ピコ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語 (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/06_六兆年と一夜物語_(feat._星乃一歌&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/07_六兆年と一夜物語_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語",
+      "artist": "kemu feat. IA",
+      "has_synced": true,
+      "path": "select/08_六兆年と一夜物語_kemu_feat._IA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/09_六兆年と一夜物語_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語",
+      "artist": "kemu feat. IA",
+      "has_synced": true,
+      "path": "select/10_六兆年と一夜物語_kemu_feat._IA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/11_六兆年と一夜物語_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語",
+      "artist": "ぐるたみん",
+      "has_synced": true,
+      "path": "select/12_六兆年と一夜物語_ぐるたみん.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語",
+      "artist": "IA",
+      "has_synced": true,
+      "path": "select/13_六兆年と一夜物語_IA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/14_六兆年と一夜物語_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/15_六兆年と一夜物語_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/16_六兆年と一夜物語_鹿乃.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語 feat. IA",
+      "artist": "kemu",
+      "has_synced": true,
+      "path": "select/17_六兆年と一夜物語_feat._IA_kemu.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "六兆年と一夜物語",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/18_六兆年と一夜物語_鹿乃.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "六兆年と一夜物語",
+      "artist": "KEMU VOXX",
+      "has_synced": false,
+      "path": "select/pl_01_六兆年と一夜物語_KEMU_VOXX.txt"
+    }
+  ]
+}
